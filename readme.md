@@ -1,2 +1,1 @@
-# Deployed Link https://github.com/alinakur/myportfolio.git
-пше
+# Deployed Link https://myportfolio.github.io/
